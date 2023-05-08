@@ -1,0 +1,5 @@
+gradio
+neon-tts-plugin-coqui==0.4.1a9
+ffmpeg-downloader
+ffmpeg-python
+pydub
