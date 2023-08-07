@@ -1,5 +1,5 @@
 gradio
-neon-tts-plugin-coqui==0.4.1a9
+neon-tts-plugin-coqui==0.7.3a1
 ffmpeg-downloader
 ffmpeg-python
 pydub
